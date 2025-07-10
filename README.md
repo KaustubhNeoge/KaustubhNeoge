@@ -1,3 +1,7 @@
+## About Me:
+As an IT engineering student, I bring a blend of strong skills in Python, foundational knowledge in Data Science, and practical experience in DBMS and MySQL. I have foundational knowledge of Java, C, CPP and HTML.
+Currently working on DSA and problem solving
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_._kaustubh_._) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kaustubh-neoge) 
